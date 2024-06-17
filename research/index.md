@@ -15,7 +15,9 @@ Description of our research.
 
 {%
   include citation.html
-  lookup="doi:10.1103/PRXLife.1.013008"
+  data="citations"
+  component="citation"
+  filters="group: featured"
   style="rich"
 %}
 
