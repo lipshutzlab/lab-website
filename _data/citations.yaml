@@ -178,16 +178,16 @@
   link: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2010.12644
-  title: A biologically plausible neural network for Slow Feature Analysis
+- id: url:https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
+  title: A Biologically Plausible Neural Network for Slow Feature Analysis
   authors:
   - David Lipshutz
-  - Charlie Windolf
+  - Charles Windolf
   - Siavash Golkar
-  - Dmitri B. Chklovskii
-  publisher: arXiv
-  date: '2020-10-27'
-  link: https://arxiv.org/abs/2010.12644
+  - Dmitri Chklovskii
+  publisher: Advances in Neural Information Processing Systems
+  date: '2020-01-01'
+  link: https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10884-021-09973-5
