@@ -1,1 +1,1 @@
-Sitemap: http://lipshutzlab.com/sitemap.xml
+Sitemap: https://lipshutzlab.com/sitemap.xml
