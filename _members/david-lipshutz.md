@@ -1,6 +1,6 @@
 ---
 name: David Lipshutz, Ph.D.
-image: images/photo.jpg
+image: images/david_lipshutz.jpg
 role: pi
 description: Assistant Professor
 affiliation: Department of Neuroscience, Baylor College of Medicine
