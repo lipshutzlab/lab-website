@@ -1,7 +1,6 @@
 - id: arxiv:2405.17745
 - id: url:https://openreview.net/forum?id=Fykvxdv2I8
   publisher: ICLR Workshop on Representational Alignment
-  date: 2024-05-20
 - id: doi:10.1103/PhysRevResearch.6.013111
 - id: url:https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
 - id: doi:10.1103/PRXLife.1.013008
@@ -9,7 +8,7 @@
 - id: doi:10.1109/ICASSP49357.2023.10096380
 - id: url:https://openreview.net/forum?id=3mlITJRYYbs
   publisher: International Conference on Learning Representations
-  date: 2023-05-20
+  date: 2023-02-01
 - id: doi:10.1371/journal.pcbi.1010864
 - id: doi:10.1038/s41593-022-01225-z
 - id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
