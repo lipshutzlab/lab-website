@@ -19,7 +19,7 @@
   - Amin Nejatbakhsh
   - Alex H. Williams
   publisher: ICLR Workshop on Representational Alignment
-  date: '2024-05-20'
+  date: '2024-03-02'
   link: https://openreview.net/forum?id=Fykvxdv2I8
   plugin: sources.py
   file: sources.yaml
@@ -97,7 +97,7 @@
   - Cengiz Pehlevan
   - Dmitri Chklovskii
   publisher: International Conference on Learning Representations
-  date: '2023-05-20'
+  date: '2023-02-01'
   link: https://openreview.net/forum?id=3mlITJRYYbs
   plugin: sources.py
   file: sources.yaml
