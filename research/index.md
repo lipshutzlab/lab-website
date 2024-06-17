@@ -13,6 +13,12 @@ Description of our research.
 
 ## Highlighted
 
+{%
+  include citation.html
+  lookup="doi:10.1103/PRXLife.1.013008"
+  style="rich"
+%}
+
 {% include section.html %}
 
 ## All
