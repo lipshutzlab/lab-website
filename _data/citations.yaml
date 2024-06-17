@@ -202,6 +202,101 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s10884-021-09973-5
+  title: Stability of Synchronous Slowly Oscillating Periodic Solutions for Systems
+    of Delay Differential Equations with Coupled Nonlinearity
+  authors:
+  - David Lipshutz
+  - Robert J. Lipshutz
+  publisher: Journal of Dynamics and Differential Equations
+  date: '2021-03-22'
+  link: https://doi.org/gtzqgw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1287/stsy.2021.0079
+  title: Customer-Server Population Dynamics in Heavy Traffic
+  authors:
+  - Rami Atar
+  - Prasenjit Karmakar
+  - David Lipshutz
+  publisher: Stochastic Systems
+  date: '2022-03-01'
+  link: https://doi.org/gtzqgx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1287/moor.2020.1056
+  title: Heavy Traffic Limits for Join-the-Shortest-Estimated-Queue Policy Using Delayed
+    Information
+  authors:
+  - Rami Atar
+  - David Lipshutz
+  publisher: Mathematics of Operations Research
+  date: '2021-02-01'
+  link: https://doi.org/gtzqgz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1287/moor.2020.1076
+  title: Sensitivity Analysis for the Stationary Distribution of Reflected Brownian
+    Motion in a Convex Polyhedral Cone
+  authors:
+  - David Lipshutz
+  - Kavita Ramanan
+  publisher: Mathematics of Operations Research
+  date: '2021-05-01'
+  link: https://doi.org/gtzqg2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1287/stsy.2019.0031
+  title: A Monte Carlo Method for Estimating Sensitivities of Reflected Diffusions
+    in Convex Polyhedral Domains
+  authors:
+  - David Lipshutz
+  - Kavita Ramanan
+  publisher: Stochastic Systems
+  date: '2019-06-01'
+  link: https://doi.org/gtzqg3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1214/18-AIHP924
+  title: Pathwise differentiability of reflected diffusions in convex polyhedral domains
+  authors:
+  - David Lipshutz
+  - Kavita Ramanan
+  publisher: "Annales de l'Institut Henri Poincar\xE9, Probabilit\xE9s et Statistiques"
+  date: '2019-08-01'
+  link: https://doi.org/gtzqg4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3934/dcds.2018135
+  title: Exit time asymptotics for small noise stochastic delay differential equations
+  authors:
+  - David Lipshutz
+  publisher: Discrete &amp; Continuous Dynamical Systems - A
+  date: '2018-01-01'
+  link: https://doi.org/gtzqg5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.spa.2017.09.020
+  title: Large deviations for the empirical measure of a diffusion via weak convergence
+    methods
+  authors:
+  - Paul Dupuis
+  - David Lipshutz
+  publisher: Stochastic Processes and their Applications
+  date: '2018-08-01'
+  link: https://doi.org/gtspg6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1214/17-AAP1299
+  title: On directional derivatives of Skorokhod maps in convex polyhedral domains
+  authors:
+  - David Lipshutz
+  - Kavita Ramanan
+  publisher: The Annals of Applied Probability
+  date: '2018-04-01'
+  link: https://doi.org/gtzqg6
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1137/140980806
   title: Existence, Uniqueness, and Stability of Slowly Oscillating Periodic Solutions
     for Delay Differential Equations with Nonnegativity Constraints
@@ -209,50 +304,7 @@
   - David Lipshutz
   - Ruth J. Williams
   publisher: SIAM Journal on Mathematical Analysis
-  date: '2020-12-04'
+  date: '2015-01-01'
   link: https://doi.org/f74xj5
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
