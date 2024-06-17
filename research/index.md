@@ -13,7 +13,7 @@ Description of our research.
 
 ## Highlighted
 
-{% include list.html data="citations" component="citation" filter="group: featured" style="rich" %}
+{% include list.html data="citations" component="citation" filters="group: featured" style="rich" %}
 
 {% include section.html %}
 
