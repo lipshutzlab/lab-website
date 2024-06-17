@@ -1,5 +1,5 @@
 
-# lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Source code for the Lipshutz Lab website.
 
 Visit **[lipshutzlab.com](https://lipshutzlab.com)** 🚀
 
