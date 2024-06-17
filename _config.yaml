@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Lipshutz Lab
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,11 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: lipshutz@gmail.com
+  orcid: 0000-0001-9347-8326
+  google-scholar: XeWdtXcAAAAJ
+  github: https://github.com/lipshutzlab
+  twitter: dlipshutz
   youtube: lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
