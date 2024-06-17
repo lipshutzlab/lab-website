@@ -1,5 +1,143 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arxiv:2405.17745
+  title: Shaping the distribution of neural responses with interneurons in a recurrent
+    circuit model
+  authors:
+  - David Lipshutz
+  - Eero P. Simoncelli
+  publisher: arXiv
+  date: '2024-05-29'
+  link: https://arxiv.org/abs/2405.17745
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://openreview.net/forum?id=Fykvxdv2I8
+  title: Disentangling Recurrent Neural Dynamics with Stochastic Representational
+    Geometry
+  authors:
+  - David Lipshutz
+  - Amin Nejatbakhsh
+  - Alex H. Williams
+  publisher: ''
+  date: '2024-03-02'
+  link: https://openreview.net/forum?id=Fykvxdv2I8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevResearch.6.013111
+  title: Neuronal temporal filters as normal mode extractors
+  authors:
+  - Siavash Golkar
+  - Jules Berman
+  - David Lipshutz
+  - Robert Mihai Haret
+  - Tim Gollisch
+  - Dmitri B. Chklovskii
+  publisher: Physical Review Research
+  date: '2024-01-29'
+  link: https://doi.org/gtzqhn
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
+  title: Adaptive whitening with fast gain modulation and slow synaptic plasticity
+  authors:
+  - Lyndon Duong
+  - Eero Simoncelli
+  - Dmitri Chklovskii
+  - David Lipshutz
+  publisher: Advances in Neural Information Processing Systems
+  date: '2023-12-15'
+  link: https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PRXLife.1.013008
+  title: Normative Framework for Deriving Neural Networks with Multicompartmental
+    Neurons and Non-Hebbian Plasticity
+  authors:
+  - David Lipshutz
+  - Yanis Bahroun
+  - Siavash Golkar
+  - Anirvan M. Sengupta
+  - Dmitri B. Chklovskii
+  publisher: PRX Life
+  date: '2023-08-10'
+  link: https://doi.org/gtzqhp
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://proceedings.mlr.press/v202/duong23a.html
+  title: Adaptive Whitening in Neural Populations with Gain-modulating Interneurons
+  authors:
+  - Lyndon Duong
+  - David Lipshutz
+  - David Heeger
+  - Dmitri Chklovskii
+  - Eero P. Simoncelli
+  publisher: Proceedings of the 40th International Conference on Machine Learning
+  date: '2023-07-03'
+  link: https://proceedings.mlr.press/v202/duong23a.html
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://ieeexplore.ieee.org/abstract/document/10096380
+  title: An Online Algorithm for Contrastive Principal Component Analysis | IEEE Conference
+    Publication | IEEE Xplore
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ieeexplore.ieee.org/abstract/document/10096380
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://openreview.net/forum?id=3mlITJRYYbs
+  title: Interneurons accelerate learning dynamics in recurrent neural networks for
+    statistical adaptation
+  authors:
+  - David Lipshutz
+  - Cengiz Pehlevan
+  - Dmitri Chklovskii
+  publisher: ''
+  date: '2022-09-29'
+  link: https://openreview.net/forum?id=3mlITJRYYbs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1010864
+  title: A linear discriminant analysis model of imbalanced associative learning in
+    the mushroom body compartment
+  authors:
+  - David Lipshutz
+  - Aneesh Kashalikar
+  - Shiva Farashahi
+  - Dmitri B. Chklovskii
+  publisher: PLOS Computational Biology
+  date: '2023-02-06'
+  link: https://doi.org/gtzqhq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41593-022-01225-z
+  title: Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models
+    during noisy representation learning
+  authors:
+  - Shanshan Qin
+  - Shiva Farashahi
+  - David Lipshutz
+  - Anirvan M. Sengupta
+  - Dmitri B. Chklovskii
+  - Cengiz Pehlevan
+  publisher: Nature Neuroscience
+  date: '2023-01-12'
+  link: https://doi.org/gtzqhr
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
+  title: Biological Learning of Irreducible Representations of Commuting Transformations
+  authors:
+  - Alexander Genkin
+  - David Lipshutz
+  - Siavash Golkar
+  - Tiberiu Tesileanu
+  - Dmitri Chklovskii
+  publisher: Advances in Neural Information Processing Systems
+  date: '2022-12-06'
+  link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00422-022-00943-8
   title: Biologically plausible single-layer networks for nonnegative independent
     component analysis
