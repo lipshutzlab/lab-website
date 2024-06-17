@@ -1,7 +1,7 @@
 ---
 ---
 
-# lipshutzlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to the Lipshutz Lab. We are opening in the Department of Neuroscience at Baylor College of Medicine in January 2025!
 
 
 
