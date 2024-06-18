@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Description of our research.
+We're interested in understanding how collections of neurons self-organize to process information. We use mathematical and statistical tools to build toy models and analyze neural datasets. For more details, check out some of our highlighted publications below.
 
 {% include section.html %}
 
