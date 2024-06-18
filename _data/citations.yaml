@@ -47,7 +47,6 @@
   publisher: Advances in Neural Information Processing Systems
   date: '2023-12-15'
   link: https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
-  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PRXLife.1.013008
@@ -62,7 +61,7 @@
   publisher: PRX Life
   date: '2023-08-10'
   link: https://doi.org/gtzqhp
-  group: featured
+  image: images/cca.jpg
   plugin: sources.py
   file: sources.yaml
 - id: url:https://proceedings.mlr.press/v202/duong23a.html
@@ -168,7 +167,6 @@
   publisher: Neural Computation
   date: '2021-08-19'
   link: https://doi.org/gtzqhg
-  group: featured
   plugin: sources.py
   file: sources.yaml
 - id: url:https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
