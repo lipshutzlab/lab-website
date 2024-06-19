@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the Lipshutz Lab. We are opening in the Department of Neuroscience at Baylor College of Medicine in January 2025!
+# Welcome to the Lipshutz Lab website, currently under construction. We are opening in the Department of Neuroscience at Baylor College of Medicine in January 2025!
 
 
 
