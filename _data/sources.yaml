@@ -15,6 +15,7 @@
 - id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
 - id: doi:10.1007/s00422-022-00943-8
 - id: doi:10.1162/neco_a_01414
+  image: images/cortical.jpg
 - id: url:https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
 - id: url:https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
 - id: doi:10.1007/s10884-021-09973-5
