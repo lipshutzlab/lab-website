@@ -167,6 +167,7 @@
   publisher: Neural Computation
   date: '2021-08-19'
   link: https://doi.org/gtzqhg
+  image: images/cortical.jpg
   plugin: sources.py
   file: sources.yaml
 - id: url:https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
